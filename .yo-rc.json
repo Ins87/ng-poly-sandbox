@@ -1,0 +1,14 @@
+{
+  "generator-ng-poly": {
+    "appScript": "js",
+    "controllerAs": true,
+    "e2eTestFramework": "mocha",
+    "markup": "jade",
+    "ngRoute": false,
+    "structure": "module-type",
+    "style": "less",
+    "testFramework": "mocha",
+    "testScript": "js",
+    "lastUsedModule": "home"
+  }
+}
